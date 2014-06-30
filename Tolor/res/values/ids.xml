@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+	<string name="app_id">92581252765</string>
+	<string name="achievement_touch_four_correct_color_consecutively">CgkInZ2X8tgCEAIQAg</string>
+	<string name="leaderboard_highscores">CgkInZ2X8tgCEAIQAQ</string>
+</resources>

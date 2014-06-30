@@ -1,0 +1,80 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+	<style name="AppBaseTheme" parent="android:Theme.Light.NoTitleBar.Fullscreen">
+		
+	</style>
+	<style name="AppTheme" parent="AppBaseTheme">
+	    
+	</style>
+	<style name="title">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textColor">#FFFFFFFF</item>
+		<item name="android:textSize">120sp</item>
+		<item name="android:textStyle">normal</item>
+	</style>
+	<style name="button">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:background">@drawable/button</item>
+		<item name="android:padding">15dp</item>
+		<item name="android:textColor">#FFCCCCCC</item>
+		<item name="android:textSize">28sp</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+	<style name="button2">
+		<item name="android:layout_width">match_parent</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:background">@drawable/button2</item>
+		<item name="android:padding">15dp</item>
+		<item name="android:textColor">#FFCCCCCC</item>
+		<item name="android:textSize">28sp</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+	<style name="button3">
+		<item name="android:layout_width">match_parent</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:background">@drawable/button3</item>
+		<item name="android:padding">15dp</item>
+		<item name="android:textColor">#FFCCCCCC</item>
+		<item name="android:textSize">28sp</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+	<style name="button4">
+		<item name="android:layout_width">match_parent</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:background">@drawable/button4</item>
+		<item name="android:padding">15dp</item>
+		<item name="android:textColor">#FFCCCCCC</item>
+		<item name="android:textSize">28sp</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+	<style name="button5">
+		<item name="android:layout_width">100dp</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:background">@drawable/button5</item>
+		<item name="android:padding">15dp</item>
+		<item name="android:textColor">#FFCCCCCC</item>
+		<item name="android:textSize">15sp</item>
+		<item name="android:textStyle">normal</item>
+	</style>
+	<style name="infoTitle">
+		<item name="android:gravity">center</item>
+		<item name="android:textSize">28sp</item>
+		<item name="android:textColor">#FF000000</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+	<style name="infoText">
+		<item name="android:gravity">left</item>
+		<item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+		<item name="android:textColor">#FF000000</item>
+	</style>
+	<style name="info">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:layout_marginRight">20dp</item>
+		<item name="android:layout_marginTop">10dp</item>
+	</style>
+	<style name="ad">
+		<item name="android:layout_marginBottom">0dp</item>
+	</style>
+</resources>
